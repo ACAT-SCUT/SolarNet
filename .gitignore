@@ -1,0 +1,12 @@
+.vscode/
+*.pyc
+#*.pth
+dataset/
+test_results/
+results/
+logs/
+.DS_Store
+raw_data/
+checkpoints/
+result.txt
+.idea/

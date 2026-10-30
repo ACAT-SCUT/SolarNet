@@ -1,0 +1,21 @@
+[project]
+name = "solarnet"
+version = "0.1.0"
+description = "Dynamic solar-cycle forecasting experiments for PV power prediction."
+readme = "README.md"
+requires-python = ">=3.10,<3.13"
+dependencies = [
+  "einops",
+  "ipykernel",
+  "matplotlib",
+  "nbclient",
+  "nbformat",
+  "numpy",
+  "pandas",
+  "pvlib",
+  "scikit-learn",
+  "torch",
+]
+
+[tool.uv]
+package = false

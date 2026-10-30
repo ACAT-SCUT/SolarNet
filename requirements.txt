@@ -1,0 +1,10 @@
+numpy
+matplotlib
+pandas
+scikit-learn
+torch
+pvlib
+einops
+ipykernel
+nbclient
+nbformat
