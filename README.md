@@ -1,10 +1,10 @@
 # SolarNet
 
-Welcome to the official repository of the SolarNet paper: "SolarNet: Modeling Periodic Patterns Conditioned on Solar Geometry for Photovoltaic Power Forecasting".
+🎉 Welcome to the official repository of the SolarNet paper: "SolarNet: Modeling Periodic Patterns Conditioned on Solar Geometry for Photovoltaic Power Forecasting".
 
-## Getting Started
+## 🚀 Getting Started
 
-### Environment Requirements
+### 🛠️ Environment Requirements
 
 To get started, ensure you have Conda installed on your system and follow these steps to set up the environment:
 
@@ -15,12 +15,12 @@ pip install -r requirements.txt
 ```
 
 
-### Data Preparation
+### 📦️ Data Preparation
 
 The four multi-station PV datasets are available at [Here](https://drive.google.com/drive/folders/1AAvyRbvK38ED09p5AFVn5jEMXnHaxBpK).
 Create a separate folder named ```./dataset``` and place all the CSV files in this directory.
 
-### Training Example
+### 🌰 Training Example
 
 You can easily reproduce the results from the paper by running the provided script command. For instance, to reproduce the main results, execute:
 
@@ -28,7 +28,7 @@ You can easily reproduce the results from the paper by running the provided scri
 sh run_main.sh
 ```
 
-## Citation
+## ⭐ Citation
 
 If you find this repo useful, please cite our paper.
 
